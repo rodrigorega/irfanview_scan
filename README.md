@@ -1,5 +1,5 @@
 # irfanview_scan
-Little script for one click scanning with IrfanView under Windows.
+Little script for one click document scanning with IrfanView under Windows.
 
 ## Configuration
 1. Download **IrfanView** from http://www.irfanview.com/ and install it.
